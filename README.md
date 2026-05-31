@@ -2,7 +2,7 @@
 
 > 一個極簡的終端機風格筆記本，收錄各種想法與觀察 — 純靜態 HTML，零依賴。
 
-Live demo: `https://gmyjade.github.io/w14-github`
+Live demo: https://gmyjade.github.io/w14-github/
 
 ---
 
